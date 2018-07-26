@@ -1,7 +1,7 @@
 # oslog
-os_log command line tool implementation for iOS
+os_log command line tool implementation for iOS and PureDarwin
 
-A tool that shows os_log stream info/activity directly on iOS devices
+A tool that shows os_log stream info/activity directly on iOS devices and PureDarwin 
 
 usage:
 
